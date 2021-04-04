@@ -6,15 +6,7 @@ The rules of the game are as followed
 
 1) The game is played in a 8 x 8 grid which looks like the grid below. "X" are the possible coordinates of the grid
 
-    A	B	C	D	E	F	G	H
-1		X	X	X	X	X	X	X X
-2		X	X	X	X	X	X	X X
-3		X	X	X	X	X	X	X X						
-4		X	X	X	X	X	X	X X						
-5		X	X	X	X	X	X	X X						
-6	  X	X	X	X	X	X	X X							
-7		X	X	X	X	X	X	X X						
-8		X	X	X	X	X	X	X X
+![image](https://user-images.githubusercontent.com/77070862/113497121-9e016f00-94ce-11eb-98e2-2d8908b73a75.png)
 
 2) Each player has 6 ships and 4 grenades 
 4) At the start of the game the player will place their ships and grenades into the grid by typing the coordinate, which is a letter followed by a number (ex : A8).
