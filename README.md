@@ -4,7 +4,7 @@ This is a simple Battleship game played against the computer in the Terminal.
 
 The rules of the game are as followed 
 
-1) The game is played in a 8 x 8 grid which looks like the grid below. "X" are the possible coordinates of the grid
+1) The game is played in a 8 x 8 grid which looks like the grid below.
 
 ![image](https://user-images.githubusercontent.com/77070862/113497121-9e016f00-94ce-11eb-98e2-2d8908b73a75.png)
 
