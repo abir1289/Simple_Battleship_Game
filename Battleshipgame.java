@@ -2,7 +2,7 @@
 // Assignment 4
 // Written by: Imran Ahmed 40172931 
 // For COMP 248 Section EC - Fall 2020
-//-------------------------------------------------------------------------
+//---------------------------------------------------------------------------
 
 /*This program will simulate a game of Battleship between the user and the computer. Initially , each player have 
 6 ships and 4 grenades. The ships and grenades are placed in a 8 x 8 grid and are hidden from both players. 
